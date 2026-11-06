@@ -99,7 +99,7 @@ return 0;
 ```
 ## Output:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e985be2f-0189-48af-80e4-2b3e96b87bc8" />
+<img width="1015" height="377" alt="image" src="https://github.com/user-attachments/assets/a7772444-0c34-4077-91c6-2f3d5c98e8f4" />
 
 
 ## Result:
